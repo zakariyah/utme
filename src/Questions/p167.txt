@@ -1,0 +1,11 @@
+Choose the correct answer
+The difference of potential between the terminals of a cell is 2.2 volts. When a 4-ohm resistor is connected across the terminals of this cell, the potential difference is 2 volts. What is the internal resistance of the cell.
+0.10ohms	
+0.25ohms	
+0.40ohms	
+2.50ohms	
+3
+
+
+
+

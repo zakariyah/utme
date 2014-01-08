@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+A die has four of its faces coloured white and the remaining two coloured black.What is the probability that when the die is thrown two consecutive times, the top face will be white in both cases? 	
+2/3
+1/9
+4/9
+1.36
+3

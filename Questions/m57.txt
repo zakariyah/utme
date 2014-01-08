@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+A stone is dropped from the top of a cliff 45m high. Find the time it takes to hit the ground (take g = 10ms-2) 
+3.0sec
+4.5 sec
+5.0 sec
+9.0 sec
+1

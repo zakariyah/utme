@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+An air bubble rises from the bottom to the top of a water dam which is 40m deep. The volume of the bubble just below the surface is 2.5cm3. Find its volume at the bottom of the dam, if atmospheric pressure is equivalent to 10m of water.
+10.0cm<sup>3</sup>
+2.0cm<sup>3</sup>	
+1.6cm<sup>3</sup>
+0.5cm<sup>3</sup>
+4

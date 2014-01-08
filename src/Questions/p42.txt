@@ -1,0 +1,10 @@
+Choose the correct answer from a-d
+An electric cell has an internal resistance of 2ohms. A current of 0.5A is found to flow when a resistor of 5ohms resistance is connected across it. What is the electromotive force of the cell?
+5 volts	
+3.5 volts	
+2.5 volts	
+1 volt	
+2
+
+
+

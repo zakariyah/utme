@@ -1,0 +1,7 @@
+select the option that best explains the information conveyed in the sentence. Each question carries 2 marks.
+My eldest son, who is in Lagos, is studying English.
+Only my son is in Lagos studying English. 
+My only son is in Lagos studying English.
+One of my sons is in Lagos studying English.
+My sons are in Lagos but only one is studying English
+3

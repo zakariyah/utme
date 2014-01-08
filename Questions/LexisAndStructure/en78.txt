@@ -1,0 +1,7 @@
+select the option that best explains the information conveyed in the sentence.
+Even though Susan was the last in the examination, her result wasn't too different from what had been expected.
+Her result was poor.
+Her result was a disappointment.
+Her result was as expected.
+She had not been serious with her studies.
+3

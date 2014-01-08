@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+The electric supply from Kainji dam is transmitted at high voltages of the order of hundreds of kilovolts but is converted to domestic use of about 220 volts by
+commutators	
+transistors 	
+valves and diodes	
+transformers.
+4

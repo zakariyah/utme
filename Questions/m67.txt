@@ -1,0 +1,7 @@
+Choose the correct answer
+(i) Rectangular bars of equal width with equal class size.    (ii)The height of each rectangular bar is proportional to the frequency of the corresponding class internal.     (iii)Rectangular bars have common sides with no gaps in between. A histogram is described completely by 
+I and II,
+II and II,
+I and III,
+I, II and III
+4

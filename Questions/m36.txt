@@ -1,0 +1,7 @@
+Choose the correct answer
+In a survey of 100 students in an institution, 80 students speak Yoruba, 22 speak Igbo, while 6 speak neither Igbo nor Yoruba. How many students speak Yoruba and Igbo?
+96
+8
+64
+12
+2

@@ -1,0 +1,7 @@
+Choose the correct answer
+A gun of mass 2.0kg fires a bullet of mass 0.016kg due east. If the bullet leaves the nozzle of the gun with a velocity of 150m/s, what is the recoil velocity of the gun?
+150m/s due West     
+1.2 x 10<sup>-4</sup>m/s due West      
+1.2m/s due West
+1.2m/s due East     
+3

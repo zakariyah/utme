@@ -1,0 +1,10 @@
+Choose the correct answer.
+If f(x-4) = x2 + 2x + 3, find f(2)   
+6
+11
+27
+51
+4
+
+
+

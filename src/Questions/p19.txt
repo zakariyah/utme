@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+In a D.C. circuit a 10 microfarad (mF) capacitor is placed in series with a 10 ohm resistor. The total resistance of the combination is 
+10 ohms	
+1 ohms 	
+zero		
+infinite
+4

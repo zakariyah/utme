@@ -1,0 +1,7 @@
+Choose the correct answer
+An elevator of mass 4800kg is supported by a cable which can safely withstand a maximum tension of 60000N. The maximum upward acceleration the elevator can have is 
+2.5ms<sup>-2</sup>
+5.0ms<sup>-2</sup>        
+7.5ms<sup>-2</sup>
+10.0ms<sup>-2</sup>
+1

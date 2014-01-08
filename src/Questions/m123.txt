@@ -1,0 +1,11 @@
+Choose the correct answer.
+The nth  term of a sequence is given by 31-n, find the sum of the first three terms of the sequence 
+13/9
+1
+1/3 
+87
+4
+
+
+
+

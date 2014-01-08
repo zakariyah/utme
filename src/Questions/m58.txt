@@ -1,0 +1,9 @@
+Choose the correct answer from a-d
+If two dice are tossed together, find the probability of getting a sun of at most 5 or an even sum. 
+1/9
+1/7
+7/9
+1
+3
+
+

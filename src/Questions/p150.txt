@@ -1,0 +1,9 @@
+Choose the correct answer
+Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media?   I. light is passing from optically denser medium to optically less dense medium	II. Light is passing from optically less dense medium to optically denser medium	III.  Angle of incidence is greater than critical angle	IV. Angle of incidence is less and critical angle. 
+I and II only 	
+II and III only	
+III and IV only	
+I and III only	
+4
+
+

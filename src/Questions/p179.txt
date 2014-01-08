@@ -1,0 +1,11 @@
+Choose the correct answer
+Two cells, each of e.m.f 1.5V and an internal resistance 2 ohms are connected in parallel. Calculate the current flowing when the cells are connected to a 1 ohm resistor.
+0.75A	
+1.5A		
+0.5A	
+1.0A	
+1
+
+
+
+

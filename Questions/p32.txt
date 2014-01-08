@@ -1,0 +1,7 @@
+Choose the correct answer
+A cigarette lighter in a car is a resistor that, when activated, is connected across the 12V battery. If the lighter dissipates 33W of power, find the current it delivers to the lighter
+9.90 ohms
+6.60 ohms
+4.36 ohms
+17.50 ohms
+1

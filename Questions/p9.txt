@@ -1,0 +1,7 @@
+Choose the correct answer
+A simple pendulum with a period of 2.0s has its length doubled. Its new period is
+1.00s       
+1.41s         
+0.35s        
+2.83s 
+4

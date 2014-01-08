@@ -1,0 +1,8 @@
+Choose the correct answer from a-d
+The probability that a number selected at random from 1 to 40 is a multiple of 7 is 
+1/10
+1/8
+3/20
+7/40
+2
+

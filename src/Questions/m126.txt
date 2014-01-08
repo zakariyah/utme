@@ -1,0 +1,15 @@
+Choose the correct answer
+Five couples are to be seated at a round table. if each couple is to sit together, in how many ways can this be done? 
+120
+24
+48
+12
+3
+
+
+
+
+
+
+
+

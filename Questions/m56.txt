@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+Two members are picked at random from a committee of 5 men and 4 women. Find the probability that they are of the same sex 
+2/9
+4/9
+5/9
+7/9
+2

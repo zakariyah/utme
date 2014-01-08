@@ -1,0 +1,7 @@
+Choose the correct answer
+In copper plating, a current of 0.5 A is allowed for a cathode area of 100cm square. It this current is maintained constant for 100 minutes the thickness of the copper deposited will be approximately. [the electrochemical equivalent of copper = 0.00033 g/C, density of copper = 104g/cm cube].
+10<sup>-2</sup>mm	
+10<sup>-3</sup>mm	
+10<sup>-4</sup>mm	
+10<sup>-5</sup>mm	
+4

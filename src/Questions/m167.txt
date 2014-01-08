@@ -1,0 +1,12 @@
+Choose the correct answer
+Two point X and Y are on latitude 60oN and their longitudes are 17W and 28E respectively. If R=6,370km and pi=22/7, the distance between X and Y measured along the parallel of latitude is 	
+2,359.4km
+2,502.5km
+4,718.8km
+5,005.0km
+4
+
+
+
+
+

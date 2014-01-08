@@ -1,0 +1,7 @@
+Choose the correct answer
+A galvanometer of resistance 5.0 ohms has full-scale deflection for a current of 100mA. How would its range be extended to 1.0A? By placing a resistance of 
+5/9 ohms in parallel       
+9/5 ohms in series       
+45 ohms in parallel     
+45 ohms in series
+1

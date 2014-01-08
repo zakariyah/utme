@@ -1,0 +1,7 @@
+Read the following question carefully and choose the correct option that best answer the question.
+A major disadvantage of the arithmetic mean is that it is 
+not useful for large data
+not suitable for further statistical analysis
+cumbersome to determine the actual value
+affected by extreme data
+4

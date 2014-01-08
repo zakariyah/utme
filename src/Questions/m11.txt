@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+Two perpendicular lines PQ and QR intersect at (1, -1), if the equation of PQ is x-2y + 4 = 0, find the equation of QR. 
+x-2y +1 = 0 
+2x+y-3 = 0 	
+x-2y – 3 = 0
+2x+y-1 = 0 
+4

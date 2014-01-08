@@ -1,0 +1,17 @@
+Choose the correct answer.
+The letters of the word MATRICULATION are cut and put into a box. One of the letters is drawn at random from the box. Find the probability of drawing vowel.  
+2/13
+5/13   
+6/13
+8/13   E. 4/13
+3
+
+
+
+
+
+
+
+
+
+

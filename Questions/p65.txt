@@ -1,0 +1,7 @@
+Choose the correct answer
+A stand-by generator is connected to fifteen 40W lamps and a musician's 600W amplifying system. How much energy is used if the generator runs for 6hours?
+3.84kWh	
+7.20kWh	
+8.40kWh	
+12.00kWh	
+2

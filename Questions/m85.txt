@@ -1,0 +1,7 @@
+Choose the correct answer
+The locus of point which is equidistant from the lines y - x = 0 and y + x = 0, for x > 0, is the 
+x  axis
+y  axis  	
+line x = 1
+line y = 1
+2

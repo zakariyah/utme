@@ -1,0 +1,7 @@
+Choose the correct answer
+Four books whose authors' surname start with the letters A,J,P and W are placed randomly on a shelf. The probability that the books will be arranged in the alphabetical order of the authors' surnames is  
+1/4
+1/6
+1/12
+1/24
+4

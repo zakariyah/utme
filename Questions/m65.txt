@@ -1,0 +1,7 @@
+Choose the correct answer
+How many possible ways are there of seating 6 people  A,  B,  C, D, E and F in a circular table. 
+360
+120
+140
+720 
+2

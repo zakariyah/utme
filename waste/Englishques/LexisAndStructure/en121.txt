@@ -1,0 +1,7 @@
+select the option that best explains the information conveyed in the sentence. Each question carries 2 marks.
+Hardworking students must not have a finger in every pie at school. 
+Hardworking students must have a role to play in most activities in the school.
+Only hardworking students must participate in all activities in the school. 
+Hardworking students do not participate in all activities in the school.
+Hardworking students must ask others to participate in school activities.
+3

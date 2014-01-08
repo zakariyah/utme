@@ -1,0 +1,9 @@
+Choose the correct answer
+A given mass of an ideal gas occupies a volume V at a temperature T and under a pressure P. If the pressure is increased to 2P and the temperature reduced to 1/2T, then the percentage change in the volume of the gas is 
+0%       
+25%         
+75%       
+400%
+3
+
+ 

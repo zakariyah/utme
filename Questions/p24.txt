@@ -1,0 +1,7 @@
+Choose the correct answer
+The electric field between two parallel plates is E. A particle of mass m and carrying charge q is released at a point half the distance between the plates. The velocity of the particle t seconds after its release is
+qEt/m 
+qEt<sup>2</sup>/2m
+mqt<sup>2</sup>/2E
+mqt/2E
+1

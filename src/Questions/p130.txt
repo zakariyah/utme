@@ -1,0 +1,8 @@
+Choose the correct answer
+A high - resistance voltmeter reads 3.0 V when connected across the terminals of a battery on open circuit and 2.6 V when the battery supplies a current of 0.2A through a lamp. The resistance of the lamp is.
+2.00 ohms	
+13.00 ohms
+0.52 ohms
+0.13 ohms
+2
+ 

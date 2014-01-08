@@ -1,0 +1,10 @@
+Choose the correct answer from a
+Calculate the volume of 1.0000mol of gas at exactly 200C at a pressure of 101.325 KPa.  
+24.055 dm<sup>3</sup>
+2.4055 dm<sup>3</sup>
+12.572 dm<sup>3</sup>
+1.257 dm<sup>3</sup>
+1
+
+
+

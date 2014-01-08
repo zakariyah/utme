@@ -1,0 +1,8 @@
+Choose the correct answer
+A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A Short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevailing condition is 250m/s, how much closer is the ship to the cliff?
+10m 	
+125		
+175m	
+1,000m
+2
+

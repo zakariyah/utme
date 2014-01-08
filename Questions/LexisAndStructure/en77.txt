@@ -1,0 +1,7 @@
+select the option that best explains the information conveyed in the sentence.
+The hunter has a bird's-eye view of the animals.
+He views animals from a high position.
+He views the bird's eye.
+He views the birds on tree with one eye.
+He watches animals and birds closely.
+1

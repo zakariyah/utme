@@ -1,0 +1,7 @@
+Choose the correct answer
+The echo of a sounder from the bottom of an ocean is heard 2.5seonds later. If the speed of sound in water is 1.400m/s, the depth of the ocean is.
+1,750m	
+3,500m	
+1,400m	
+2,800m	
+1

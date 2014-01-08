@@ -1,0 +1,7 @@
+Choose the correct answer
+The hatch door of a submarine has an area of 0.5metre square. The specific gravity of sea water is 1.03. Assume that g = 10 and neglect the atmospheric pressure. The force exerted by the sea water on the hatch door at a depth of 200m is.
+1.03 x 106 N	
+1.03 x 104 Nm-2	
+2.06 x 105Nm-2	 
+1.03 x 103N 
+1

@@ -1,0 +1,7 @@
+Choose the correct answer
+All the vertices of an isosceles triangle lie on a circle and each of the base angles of the triangle is 65. The angle subtended at the centre of the circle by the base of the triangle is:
+130<sup>0</sup>
+115<sup>0</sup>
+100<sup>0</sup>
+65<sup>0</sup>
+3

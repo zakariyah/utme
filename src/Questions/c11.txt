@@ -1,0 +1,9 @@
+Choose the correct answer from a-d
+Given the mean atomic mass of chloride prepared in the laboratory to be 35.5 and assuming that chloride contains two isotopes of mass number 35 and 37, What is the percentage composition of the isotopes of mass number 35? 
+20
+25
+50
+75
+4
+
+

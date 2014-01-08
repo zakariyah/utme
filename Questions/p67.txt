@@ -1,0 +1,7 @@
+Choose the correct answer
+A milliammeter of resistance 5? and full scale deflection of 50mA is to be used to measure a potential difference of 50V. The resistance of the multiplier should be
+95?		
+110?	
+595?	
+995?	
+4

@@ -1,0 +1,11 @@
+Choose the correct answer from a-d
+All the heat generated in a 5ohm resistor by 2A flowing for 30seconds is used to evaporate 5g of a liquid at its boiling point. Which of the following is the correct value of the specific latent heat of the liquid?
+120J	
+60J/g	
+120J/g	
+1500J	
+3
+
+
+
+

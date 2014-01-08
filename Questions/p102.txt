@@ -1,0 +1,7 @@
+Choose the correct answer
+A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is 
+5 volts	
+10 volts 	
+15 volts	
+25 volts
+2

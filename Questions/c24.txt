@@ -1,0 +1,7 @@
+Choose the correct answer
+The order of reactivity of five metals is P > Q > R > S > T. Which of the following reactions can occur spontaneously?
+T + P<sup>+</sup> ? T<sup>+</sup> + P 
+Q + T<sup>+</sup> ? Q<sup>+</sup> + T
+R + Q<sup>+</sup> ? R<sup>+</sup> + Q
+T + R<sup>+</sup> ? T<sup>+</sup> + R
+1

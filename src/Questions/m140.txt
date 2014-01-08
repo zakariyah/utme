@@ -1,0 +1,12 @@
+Choose the correct answer.
+Find correct to two decimal places 100 +  1/100 + 3/1000 + 27/10000
+100.02
+100.026
+100.31
+1000.31
+1
+
+
+
+
+

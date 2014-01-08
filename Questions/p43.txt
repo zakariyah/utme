@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+In an electrolysis experiment, a cathode of mass 5g is found to weigh 5.01g after a current of 5A flows for 50s. What is the electrochemical equivalent of the deposited susbstance?
+0.00004g/C      
+0.00002g/C	
+0.02500g/C	   
+0.05000g/C		
+1

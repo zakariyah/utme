@@ -1,0 +1,10 @@
+Choose the correct answer
+The linear expansivity of brass is 0.00002 per degree celcius. If the volume of a piece of brass is 10cm cube  at 0 degree C, what will be its volume at 1000C?
+10.02cm<sup>3</sup>
+10.04cm<sup>3</sup>
+10.06cm<sup>3</sup>	
+10.20cm<sup>3</sup>
+3
+
+
+

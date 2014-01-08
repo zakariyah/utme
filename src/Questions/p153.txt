@@ -1,0 +1,9 @@
+Choose the correct answer
+A milliammeter with full scale deflection of 10mA has an internal resistance of 5 ohms. It would be converted to an ammeter with a full scale deflection of 1 A by connecting resistance of 
+5/99 ohms in series with it	
+5/99 ohm in parallel with it 	
+99/5 ohm in parallel with it 	
+99/5 ohm in  series with it 		
+2
+
+

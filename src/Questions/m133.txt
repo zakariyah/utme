@@ -1,0 +1,11 @@
+Choose the correct answer.
+If y = 3sin (-4x), dy/dx is
+-12cos (-4x)
+12sin (-4x)
+12xcos (4x)
+-12xcos (-4x) 
+1
+
+
+
+

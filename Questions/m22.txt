@@ -1,0 +1,7 @@
+Choose the correct answer
+Simplify
+r! / (n-r+1)
+r! / (n-r-1)
+r! / (n+r+1)!
+r! / (n-r)
+1

@@ -1,0 +1,8 @@
+Choose the correct answer
+The refractive index of a liquid is 1.5. If the velocity of light in vacuum is 3.0 x 10m/s, the velocity of light in the liquid is.
+1.5 x 108ms<sup>-2</sup>
+2.0 x 108ms<sup>-2</sup>	                           
+3.0 x 108ms<sup>-2</sup>
+4.5 x 108ms<sup>-2</sup>
+2
+

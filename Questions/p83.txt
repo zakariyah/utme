@@ -1,0 +1,7 @@
+Choose the correct answer
+A cell has an open circuit voltage V1 and a closed circuit voltage V2 when a current I is flowing through it. Therefore the internal resistance of the cell is
+V2/I       
+V1/I          
+(V1 + V2)/I       
+(V1 - V2)/I      
+4

@@ -1,0 +1,8 @@
+Choose the correct answer from a
+Which of the following is not a form of an ideal gas equation? 
+V = nRT/P 
+T = PV/nR   
+P = nRT/V  
+n = PRT/V
+4
+

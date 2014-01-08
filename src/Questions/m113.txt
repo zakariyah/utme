@@ -1,0 +1,10 @@
+Choose the correct answer.
+Find the minimum value of x2 – 3x + 2 for all real values of x.  
+-1/4
+-1/2
+1/4
+1/2
+4
+
+
+

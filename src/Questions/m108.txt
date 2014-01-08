@@ -1,0 +1,10 @@
+Choose the correct answer.
+Write the decimal number 39 to base 2.  
+100111
+111 
+111001
+100101
+1
+
+
+

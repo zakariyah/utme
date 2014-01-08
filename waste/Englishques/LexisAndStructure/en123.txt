@@ -1,0 +1,7 @@
+select the option that best explains the information conveyed in the sentence. Each question carries 2 marks.
+She was absolved by the court from the charge.
+She was convicted for the charge.
+She was blamed and charged to court.
+Her case was resolved by the court.
+She was declared free from the charge.
+4

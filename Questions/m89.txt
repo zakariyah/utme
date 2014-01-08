@@ -1,0 +1,7 @@
+Choose the correct answer.
+A ball is selected and replaced in a bag containing blue, green and red identical balls. The results of 50 selections are shown below. The experimental probability of picking either a blue or a red ball is
+0.70
+0.54
+0.30
+0.16
+1

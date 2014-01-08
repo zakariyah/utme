@@ -1,0 +1,7 @@
+Choose the correct answer.
+Given log 2 = 0.69, long 3 = 1.10 and log 7 = 1.90 all to a  base. Find log 10.5 to the same base, without using tables
+1.23
+2.31
+3.69
+1.09 
+2

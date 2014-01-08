@@ -1,0 +1,15 @@
+Choose the correct answer
+If a = 3i - 4j  and b = 6i - 8j. Find the scalar product of a and b 
+30
+50
+52
+80 
+2
+
+
+
+
+
+
+
+

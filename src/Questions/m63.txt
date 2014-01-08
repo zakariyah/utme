@@ -1,0 +1,7 @@
+Choose the correct answer
+In how many ways can 6 coloured chalks be arranged in a bench.
+360
+240 
+600  
+720 
+4

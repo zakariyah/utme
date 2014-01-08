@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+A die is thrown and a coin is tossed, find the probability that the die shows an even number and the coin shows a head. 
+1/4
+1/2
+1/6
+1
+1

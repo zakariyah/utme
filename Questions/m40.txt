@@ -1,0 +1,7 @@
+Choose the correct answer
+In how many different ways can the letters of the word GEOLOGY be arranged in order?
+720
+1260
+2520
+5040
+3

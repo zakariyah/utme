@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+If PHCN charges 5k per KWh, what is the cost of operating for 24 hours a lamp requiring 1A on a 200V line?
+24k		
+55k		
+40k		
+26k		
+1

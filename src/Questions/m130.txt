@@ -1,0 +1,12 @@
+Choose the correct answer.
+If y = x sin x, find dy/dx when x = 90 degrees
+(1/2)pi 
+1
+-1 
+(1/-2)pi
+2
+
+
+
+
+

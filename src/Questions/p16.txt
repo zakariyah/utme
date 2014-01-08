@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+Three 5 ohms resistors connected in parallel have a potential difference of 60V applied across the combination. The current in each resistor is 
+4A	
+36A		
+12A		
+24A		
+3

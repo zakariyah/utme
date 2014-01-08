@@ -1,0 +1,7 @@
+Choose the correct answer.
+The angle of the sectors representing each, item in a pie the following data: 6, 10, 14, 16, 26.
+15<sup>o</sup>, 25<sup>o</sup>, 35<sup>o</sup> 80<sup>o</sup>, 80<sup>o</sup>,
+60<sup>o</sup>, 100<sup>o</sup>, 140<sup>o</sup>, 160<sup>o</sup>,110<sup>o</sup>
+80<sup>o</sup>,260<sup>o</sup>, 250<sup>o</sup>, 260<sup>o</sup>, 110<sup>o</sup>
+30<sup>o</sup>, 50<sup>o</sup>, 70<sup>o</sup>, 80<sup>o</sup>, 130<sup>o</sup>
+4

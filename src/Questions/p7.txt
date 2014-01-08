@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is
+mv<sup>2</sup>/r	
+mr<sup>2</sup>/v	
+mr/v	
+mv/r<sup>2</sup>	
+1

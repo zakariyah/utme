@@ -1,0 +1,16 @@
+Choose the correct answer
+A binary operation * is defined on the set of R, of real numbers by a *b = a + b2 – 4ab. Evaluate (-2 * -3)  
+35
+17
+-17
+-35
+3
+
+
+
+
+
+
+
+
+

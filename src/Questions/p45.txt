@@ -1,0 +1,10 @@
+Choose the correct answer from a-d
+A capacitor and a resistor are connected in series with each other and in series with an accumulator of negligible internal resistance. The potential difference across the terminals of the capacitor is
+twice the e.m.f. of the accumulator	
+less than the e.m.f. by the potential drop across the resistor	
+zero		
+the same as the e.m.f.	
+2
+
+
+

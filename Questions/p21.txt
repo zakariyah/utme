@@ -1,0 +1,7 @@
+Choose the correct answer
+A body of mass m slides down an inclined plane with a constant velocity. If the angle of the incline is x, the coefficient of kinetic friction between the body and the plane is 
+cot x
+cos x
+tan x
+sin x
+3

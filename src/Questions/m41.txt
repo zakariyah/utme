@@ -1,0 +1,9 @@
+Choose the correct answer from a-d
+The coordinates of point X and Y on the line XY are X=(- 2, - 1) and Y=(2,1). The equation of the perpendicular bisector of XY is 
+y -2x = 0 
+y + 2x = 0
+y + 2x = 5 
+y-2x=3
+2
+
+

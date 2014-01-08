@@ -1,0 +1,11 @@
+Choose the correct answer.
+If (x-1), (x+1) and (x-2) are factors of the polynomial ax3 + bx2 + cx - 1, find a, b, c, respectively
+-1/2, 1,1/2 
+1/2, 1,1/2
+1/2, 1,-1/2 
+1/2, -1,1/2
+1
+
+
+
+

@@ -1,0 +1,7 @@
+select the option that best explains the information conveyed in the sentence. 
+If I went to the village, I would visit the king.
+If I go to the village, I will visit the kind.
+I did not go to the village and I did no visit the king.
+All the times I went to the village I also visited the king.
+I will visit the king when I go to the village.
+2

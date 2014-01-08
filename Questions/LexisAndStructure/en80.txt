@@ -1,0 +1,7 @@
+select the option that best explains the information conveyed in the sentence. 
+She stopped her education as her uncle left her in the lurch.
+Her uncle deceived her.
+Her uncle disinherited her.
+Her uncle refused to help her.
+Her uncle disrespected her.
+3

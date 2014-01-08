@@ -1,0 +1,7 @@
+Choose the correct answer
+How many different three digit numbers can be formed using the integers 1 to 6 if no integer occurs twice in a number?
+720
+1260
+2520
+5040
+2

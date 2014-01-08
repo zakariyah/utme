@@ -1,0 +1,7 @@
+Choose the correct answer.
+Evaluate and correct to 4 decimal places: 827.51 x 0.015  
+8.8415
+12.4127
+124.1265 
+12.4120
+2

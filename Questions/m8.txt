@@ -1,0 +1,7 @@
+Choose the correct answer
+If  one of the workers id absent from work on one particular day, the probability that he is a clerk is 
+4/25
+3/25
+2/25
+1/25
+1

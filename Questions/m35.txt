@@ -1,0 +1,7 @@
+Choose the correct answer
+The radius of a circle is given as 10cm subject to an error of 0.2cm. The error in the area of the circle is
+1/4 %
+1/50 %
+2%
+4%
+4

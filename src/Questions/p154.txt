@@ -1,0 +1,9 @@
+Choose the correct answer
+It is usual to transmit electric power at high voltage and low current. Which of the following are possible advantage of the methods? 	I. Heat losses are reduced because the currents are small		II. Thin wires can be used because small currents are flowing 	III. The power can flow faster because the voltage us high.
+I only	
+I and II only	
+II and III only	
+I and III only	
+2
+
+

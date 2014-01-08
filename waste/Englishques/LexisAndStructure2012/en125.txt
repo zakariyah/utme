@@ -1,0 +1,7 @@
+select the option that best explains the information conveyed in the sentence. Each question carries 2 marks.
+The company ought to have issued warrants for one billion shares,
+The company has issues one billion shares.
+The management expected the company to issue more than one billion shares.
+Members of the company bought less than one billion shares,
+The company did not issue one billion shares.
+4

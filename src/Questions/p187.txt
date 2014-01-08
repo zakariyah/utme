@@ -1,0 +1,7 @@
+Choose the correct answer
+The lower and upper fixed points marked on a mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm above the lower fixed point in a room. What is the temperature of the room in degrees Celsius?
+55.30C	
+23.30C	
+49.00C	
+16.10C	
+2

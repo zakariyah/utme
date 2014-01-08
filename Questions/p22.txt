@@ -1,0 +1,7 @@
+Choose the correct answer
+A sample of radioactive substance, whose half-life is 16 days, registers 32 decays per second. How long will it take for the rate of decay to reduce to 2 decays per second?
+80 days
+64days
+48days
+32days
+2

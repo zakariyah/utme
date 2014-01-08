@@ -1,0 +1,7 @@
+Choose the correct answer
+A die is thrown and a coin is tossed, find the probability that the die shows an event number and the coin shows a head. 
+1/4
+1/2
+1/6
+1
+1

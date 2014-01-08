@@ -1,0 +1,7 @@
+Choose the correct answer
+The function
+<html><b>x<sup>3</sup> - 2x</b></html>
+<html><b>x<sup>3</sup> - 2x + 9</b></html>
+<html><b>x<sup>3</sup> - 2x - 9</b></html>
+6x - 6
+3

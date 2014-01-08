@@ -1,0 +1,8 @@
+Choose the correct answer from a-d
+When the length of a rectangle is doubled and its width is increased by 4m, its perimeter increases from 22m to 48m. the original length and width of the rectangle are, respectively.  
+7m,4m 
+5m,3m 
+6m, 4m
+9m, 2m
+4
+

@@ -1,0 +1,10 @@
+Choose the correct answer.
+Calculate the perimeter in cm, of a sector of a circle of radius 8cm and angle 45 degrees
+2pi
+8 + 2 pi
+18-2 pi
+16 + 2pi  	
+1
+
+
+

@@ -1,0 +1,7 @@
+Choose the correct answer
+The areas of the effort and load pistons of a hydraulic press are 0.5cm2 and 5m2 respectively. If a force F1 of 100N is applied on the effort piston,
+10N       
+100N         
+500N          
+1000N        
+4

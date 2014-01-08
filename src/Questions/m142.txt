@@ -1,0 +1,14 @@
+Choose the correct answer
+P is a probability function of an exhaustive set S= {w,x,y,z}. if P(x) = 1/4, P (y) = 1/3, P(z) = 1/6, then P(w) is 
+1/72
+1/12
+1/4
+3/4
+3
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+Choose the correct answer
+If x = 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure?
+0.01
+0.0051
+0.1
+0.005
+4

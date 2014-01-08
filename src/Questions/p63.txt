@@ -1,0 +1,7 @@
+Choose the correct answer
+What is the relative permittivity of a capacitor if its capacitance with a medium as dielectric is 16 farads and its capacitance with vacuum as dielectric is 2 farads?
+1/8	
+1/2
+2	
+8	
+4

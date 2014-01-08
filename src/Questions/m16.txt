@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+A number is selected randomly from the set of integers 1 to 20 inclusive. The probability that the number is equal to or greater than 15 is 
+1/4
+3/10
+7/10
+3/4
+2

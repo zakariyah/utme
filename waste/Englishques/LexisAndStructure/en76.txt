@@ -1,0 +1,7 @@
+select the option that best explains the information conveyed in the sentence. Each question carries 2 marks.
+The secretary said that the postponement of the meeting was due to unforeseen circumstances.
+The date of the meeting was shifted as a result of unexpected reasons.
+The meeting’s date was put off for strange reasons.
+The meeting was called as a result of obstacles hitherto unknown.
+The meeting broke off as a result of unusual difficulties.
+1

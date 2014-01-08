@@ -1,0 +1,12 @@
+Choose the correct answer from a-d
+Calculate the standard deviation of 3, 4, 5, 6, 7, 8, 9 
+2.4
+3.6
+4.0
+4.2
+1
+
+
+
+
+

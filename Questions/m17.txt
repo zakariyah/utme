@@ -1,0 +1,7 @@
+Choose the correct answer
+If the rule of the funct
+a = -1, b = 1 and c = -2 
+a = 2, b = 1 and c = -2 
+a = 1, b = -1 and c = -2
+a = 1, b = 1 and c -2
+4

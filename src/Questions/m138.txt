@@ -1,0 +1,12 @@
+Choose the correct answer.
+Solve for the positive number x such that 2^((x^3-x^2-2x) ) = 1
+4
+1
+2
+1
+3
+
+
+
+
+

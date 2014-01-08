@@ -1,0 +1,7 @@
+Choose the correct answer
+The probability that a student selected randomly scored at least 6 marks is 
+0.85
+0.70
+0.30
+0.15
+3

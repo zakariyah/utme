@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+A number is selected at random from the set of integers 1 - 20 inclusive. The probability that the number is either a multiple of 3 or a multiple of 5 is 
+1/2
+11/20
+9/20
+3/10.
+3

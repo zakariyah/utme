@@ -1,0 +1,17 @@
+Choose the correct answer
+What is the equation of a circle with centre (7, 3) and radius 5 
+(x +7)<sup>2</sup> + (y -3)<sup>2</sup> = 25
+(x - 7)<sup>2</sup> + (y +3)<sup>2</sup> = 25 
+(x - 7)<sup>2</sup> + (y - 3)<sup>2</sup>  =25
+(x + 7)<sup>2</sup> + (y +3)<sup>2</sup> = 25
+3
+
+
+
+
+
+
+
+
+
+

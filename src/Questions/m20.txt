@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+A figure is selected randomly from a group of figures consisting of square, a triangle, a trapezium, pentagon and a rhombus. The probability that the figure selected is a parallelogram is 
+4/5
+3/5
+2/5
+1/5
+3

@@ -1,0 +1,8 @@
+Choose the correct answer
+Of two identical tuning forks with natural frequency 256 Hz, one is loaded so that 4 beats per second are heard when they are sounded together. What is the frequency of the loaded tuning fork?
+260 Hz	
+252 Hz	
+248 Hz	
+258 Hz	
+2
+

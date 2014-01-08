@@ -1,0 +1,7 @@
+Choose the correct answer from a-d.
+A gas contained in a piston at a temperature of 30.0KPa occupies a volume of 200.0cm3 at 300K. The pressure of the gas is slowly increased to 90.0KPa without a change in temperature. What is the new volume of the gas?
+0.667 cm<sup>3</sup> 
+6.67 cm<sup>3</sup>
+66.7 cm<sup>3</sup>
+667.0 cm<sup>3</sup>
+3

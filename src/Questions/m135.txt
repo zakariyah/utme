@@ -1,0 +1,11 @@
+Choose the correct answer.
+Find the derivative of (2 + 3x) (1-x) with respect to x   
+6x + 1
+1 - 6x
+6
+-3
+1
+
+
+
+

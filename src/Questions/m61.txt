@@ -1,0 +1,7 @@
+Choose the correct answer
+A container has 40 gold medals, 45 silver medals and 15 bronze medals. If one medal is selected at random form the container, what is probability that it is not silver. 
+1/4
+2/5  
+11/20 
+3/20 
+3

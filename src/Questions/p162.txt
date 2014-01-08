@@ -1,0 +1,9 @@
+Choose the correct answer
+The total length of a spring when a mass of 20g is hung from its end is 14cm, while its total length is 16cm when a mass of 30g is  hung from the same end. Calculate the unstretched length of the spring assuming Hooke's laws is obey
+9.33cm	
+10.00cm	
+10.66cm	
+12.00cm	
+2
+
+

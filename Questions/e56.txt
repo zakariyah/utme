@@ -1,0 +1,7 @@
+Read the following question carefully and choose the correct option that best answer the question.
+The mean is the best measure of central tendency because it
+is not affected by extreme value-s in a data
+is a midpoint value in an array of data
+is a balancing point in an observation
+can be calculated from incomplete data
+3

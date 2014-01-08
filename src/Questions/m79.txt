@@ -1,0 +1,7 @@
+Choose the correct answer
+A reception hall is arranged such that the first row contains 10 seats and each successive row has two more seats that the preceding row. The total number of seats in the first twelve rows is 
+264
+240
+222 
+120
+1

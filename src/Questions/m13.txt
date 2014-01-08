@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+The probability of obtaining a number less than 5 in a single toss of a fair die is 
+1/6
+1/3
+1/2
+2/3
+4

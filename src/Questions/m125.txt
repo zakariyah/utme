@@ -1,0 +1,12 @@
+Choose the correct answer.
+The binary operation is defined by x*y = xy - y - x for all real values x and y. if  x*3 = 2*x, find x
+-1 
+0
+1
+5
+3
+
+
+
+
+

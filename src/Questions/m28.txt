@@ -1,0 +1,7 @@
+Choose the correct answer from a-d
+A line which makes an angle of 135 with the positive x-axis passes through the point (5,-3). The equation of the line is   
+x-y=8
+x+y=2  
+x-y=2
+x+y=8
+4
